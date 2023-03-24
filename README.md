@@ -1,3 +1,3 @@
 # Go-Tutorial
 
-Simple golang tutorial
+Simple golang tutorial with examples outlining various types and Go concepts
